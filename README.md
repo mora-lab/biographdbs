@@ -1,4 +1,4 @@
-# "Building biological graph databases using Neo4J"
+# "Biological graph databases using Neo4J"
 Antonio Mora, Huang Xiaowei, Mei Songqing
 
 ## Part 1. Basics.
