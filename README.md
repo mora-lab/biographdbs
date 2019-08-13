@@ -3,6 +3,7 @@ Antonio Mora, Huang Xiaowei, Mei Songqing
 
 ## Part 1. Basics.
 
+0. Introduction
 1. What are graph databases? What is Neo4J?
 2. Installing Neo4J.
 3. Basics of Cypher.
