@@ -23,7 +23,8 @@ Antonio Mora, Huang Xiaowei, Mei Songqing
 12. Network alignment.
 13. Link prediction.
 
-## Part 4. Perspectives.
+## Part 4. Machine Learning and Graph Databases.
 
-14. R and Neo4J.
-15. ML and Neo4J.
+##Extra.
+1. Cypher commands.
+2. R and Neo4J.
