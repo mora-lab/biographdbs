@@ -5,9 +5,9 @@ Antonio Mora, Huang Xiaowei, Mei Songqing
 
 1. Introduction. What are graph databases? What is Neo4J?
 2. Biological graph databases: GREG, Reactome, and others.
-3. Installing Neo4J. Installing GREG-minimum.
+3. Installing Neo4J and using GREG-minimum.
 
-## Part 2. Intro to Biological Databases using Cypher.
+## Part 2. Introduction to Biological Databases using Cypher.
 
 4. Basics of Cypher.
 5. Retrieving GREG's nodes and relationships using Cypher.
