@@ -25,6 +25,6 @@ Antonio Mora, Huang Xiaowei, Mei Songqing
 
 ## Part 4. Machine Learning and Graph Databases.
 
-##Extra.
+## Extra.
 1. Cypher commands.
 2. R and Neo4J.
